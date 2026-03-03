@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a GAWAR and the most lovely person, and I feel lucky to this a husband bond with you 💖", 
+        text: "You’re such a GAWAR and i am more than happy to make u my wife and THE LOVE OF MY LIFE 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
