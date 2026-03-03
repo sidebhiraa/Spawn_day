@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "You’re such a GAWAR and the most lovely person, and I feel lucky to be share a husband bond with you 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Wishing you success, happiness, and everything your heart desires. And a life together where we both can finally hug each other and make love hayeeee ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: "Stay the amazing girl you are, always spreading positivity around. Have the happiest year ahead! 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
@@ -40,7 +40,7 @@ function createReasonCard(reason) {
     
     const gifOverlay = document.createElement('div');
     gifOverlay.className = 'gif-overlay';
-    gifOverlay.innerHTML = `<img src="${reason.gif}" alt="Friendship Memory">`;
+    gifOverlay.innerHTML = `<img src="${reason.gif}" alt="Our memories">`;
     
     card.appendChild(text);
     card.appendChild(gifOverlay);
